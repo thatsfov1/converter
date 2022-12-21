@@ -1,0 +1,9 @@
+:root {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+}
+
+body {
+  background: linear-gradient(to right, #44449c, #4e7faa) no-repeat ;
+  background-size: 100% 200px;
+}
+

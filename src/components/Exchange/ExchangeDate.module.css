@@ -1,0 +1,16 @@
+.date{
+    color: #f9f9f9;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.container{
+    position: absolute;
+    top: 100px;
+}
+
+input{
+    margin-top: 10px;
+    font-family:  Inter, Avenir, Helvetica, Arial, sans-serif;
+    font-weight: 500;
+}
